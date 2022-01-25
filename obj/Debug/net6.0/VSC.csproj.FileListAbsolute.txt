@@ -1,0 +1,15 @@
+/home/domenico/VSC/bin/Debug/net6.0/VSC
+/home/domenico/VSC/bin/Debug/net6.0/VSC.deps.json
+/home/domenico/VSC/bin/Debug/net6.0/VSC.runtimeconfig.json
+/home/domenico/VSC/bin/Debug/net6.0/VSC.dll
+/home/domenico/VSC/bin/Debug/net6.0/ref/VSC.dll
+/home/domenico/VSC/bin/Debug/net6.0/VSC.pdb
+/home/domenico/VSC/obj/Debug/net6.0/VSC.csproj.AssemblyReference.cache
+/home/domenico/VSC/obj/Debug/net6.0/VSC.GeneratedMSBuildEditorConfig.editorconfig
+/home/domenico/VSC/obj/Debug/net6.0/VSC.AssemblyInfoInputs.cache
+/home/domenico/VSC/obj/Debug/net6.0/VSC.AssemblyInfo.cs
+/home/domenico/VSC/obj/Debug/net6.0/VSC.csproj.CoreCompileInputs.cache
+/home/domenico/VSC/obj/Debug/net6.0/VSC.dll
+/home/domenico/VSC/obj/Debug/net6.0/ref/VSC.dll
+/home/domenico/VSC/obj/Debug/net6.0/VSC.pdb
+/home/domenico/VSC/obj/Debug/net6.0/VSC.genruntimeconfig.cache
